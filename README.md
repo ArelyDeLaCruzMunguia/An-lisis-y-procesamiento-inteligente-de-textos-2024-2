@@ -77,3 +77,6 @@ Los resultados muestran cómo varían las puntuaciones de sentimiento según las
 - **Descripción**: La precisión es la proporción de verdaderos positivos entre el total de predicciones positivas.
 - **Interpretación**: Una alta precisión indica que la mayoría de las predicciones positivas del modelo son correctas.
 
+## Datos 
+
+Los datos empleados los podrán encontrar en Kaggle en el siguiente link: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
